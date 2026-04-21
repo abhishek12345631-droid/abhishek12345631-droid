@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Building a Selenium-Java automation framework for e-commerce web app testing + improving my portfolio at abhipfolio.netlify.app<br>Open-source QA projects, test automation frameworks, bug bounty testing, or any project that needs a QA engineer who can also code<br>Advanced Playwright & Cypress automation, API testing with Postman/RestAssured, and breaking into my first QA Engineer role<br>Selenium WebDriver with Java, API Testing (Postman + RestAssured), SQL for database testing, and JIRA for bug tracking — aiming for ISTQB certification<br>Manual testing, STLC/SDLC, writing test cases & bug reports, Selenium basics, or how to bridge the gap between QA and development<br>I'm a QA engineer who actually builds what he tests — I combine full-stack coding skills with testing expertise to catch bugs that other testers miss 🐛<br>
 
 
